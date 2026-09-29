@@ -21,3 +21,5 @@ This repository is created to share information about the Internshala Student Pa
 
 > Check the linked Internshala page for the latest offer terms and eligibility.
 
+├── internshala-poster.png
+└── internshala-career-ready.mp4
